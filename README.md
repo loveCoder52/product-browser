@@ -6,8 +6,8 @@ A full-stack MERN application to browse ~200,000 products with fast cursor-based
 
 ## 🔗 Live Demo
 
-- **Frontend:** [your-frontend-url]
-- **Backend API:** [your-backend-url]
+- **Frontend:** https://product-browser-q2jrru3o7-love-sharma-s-projects.vercel.app
+- **Backend API:** https://product-browser-6kqf.onrender.com
 
 ---
 
@@ -60,8 +60,8 @@ project/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/loveCoder52/product-browser.git
+cd product-browser
 ```
 
 ### 2. Backend setup
@@ -245,6 +245,6 @@ await Product.insertMany(batch) // 10,000 at a time
 
 ## 📬 Submission
 
-- **GitHub:** [your-repo-link]
-- **Live URL:** [your-live-url]
+- **GitHub:** https://github.com/loveCoder52/product-browser.git
+- **Live URL:** https://product-browser-q2jrru3o7-love-sharma-s-projects.vercel.app
 - **Email:** siddharth@codevector.in
